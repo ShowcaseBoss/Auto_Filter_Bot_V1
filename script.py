@@ -3,16 +3,18 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
+👇🏻👇👇🏿Provide Feedback about our bot👇🏿👇👇🏻
+             @ShowcasE_Feedback
 
 For more click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
+
+⭕️<b>Create a bot like me :</b> https://github.com/ShowcaseBoss/Auto_Filter_Bot_V1
+
+<b>Advance of using this bot:</b> 
+
 <i>    
 * Add user account to your channel !
 
@@ -26,17 +28,13 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V1</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @ShowcasE_Feedback
 
 ⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
 
 """
